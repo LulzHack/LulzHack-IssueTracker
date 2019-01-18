@@ -23,7 +23,7 @@ ___
 ## 1.  Report Types
 
 We use different types of reports to clearly structure the Issue Tracker and split the tasks. Depending on the type, the information we need for processing also differs.
-If you are not sure what type your report is, read [this article](https://google.com) 
+If you are not sure what type your report is, read [this article](https://github.com/LulzHack/LulzHack-IssueTracker/blob/master/REPORT_TYPES.md) 
 
 ```
 What type of report is this?
