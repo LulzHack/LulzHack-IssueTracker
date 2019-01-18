@@ -7,8 +7,8 @@ ___
 
 The LulzHack server is currently <string>publicly</strong> available under the following domain: <strong>lulzhack.xyz</strong>
 
-Before getting started, [read this article](https://google.com).<br>
-To report a bug [click here](https://google.com)
+Before getting started, [read this article](https://github.com/LulzHack/LulzHack-IssueTracker/blob/master/REPORT_ISSUE.md).<br>
+To report a bug [click here](https://github.com/LulzHack/LulzHack-IssueTracker/issues)
 
 
 This Issue Tracker has two main objectives:
