@@ -1,0 +1,19 @@
+# How to properly report an issue
+
+The purpose of this guide is to explain how to report a bug, suggest a feature or improvement, or ask a question in a clear and structured way.
+
+## Introduction
+
+When a new issue is created, you will receive a template to adhere to. A report that does not match the default format may be deleted. 
+
+___
+
+Let's start with the basics. There is a ">" in each section. Please formulate your information behind each one. 
+
+For example:
+
+<code>
+What version of LulzHack are you using?
+
+> [INSERT YOUR INFORMATION HERE]
+</code>
