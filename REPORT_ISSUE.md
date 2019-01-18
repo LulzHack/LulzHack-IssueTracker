@@ -27,7 +27,7 @@ If you are not sure what type your report is, read [this article](https://github
 
 ```
 What type of report is this?
-False Positive, Bypass, Console Error, Crash, Activation Error, Suggestion, Question, Other
+False Positive, Bypass, Console Error, Crash, Activation Error, Suggestion, Question
 
 > [YOUR INFORMATION]
 ```
