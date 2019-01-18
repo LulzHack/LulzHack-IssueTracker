@@ -2,7 +2,6 @@
 A place where you can report all bugs, bypasses and errors around the LulzHack anticheat.
 <br>
 ___
-<br>
 
 <em>Before you report a new bug, please take a minute to check if it has already been reported.</em>
 
