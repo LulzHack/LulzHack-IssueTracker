@@ -16,9 +16,9 @@ This Issue Tracker has two main objectives:
 - First, anyone can share bypasses, errors or problems with us and the community so that everyone is informed and we can fix the bugs.
 
 - Second, we can improve the project together through the submitted issues!
+___
 
-
-Our philosophy: <p>Good projects arise from the will to surpass one's own level again and again.</p>
+Our philosophy: <p><em>Good projects arise from the will to surpass one's own level again and again.</em></p>
 
 
 
